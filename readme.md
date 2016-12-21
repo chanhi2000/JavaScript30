@@ -6,6 +6,7 @@ Chan Hee Lee, Software & Applications Developer
 Last Commit Date: Dec 19, 2016
 
 > Course created by [Wes Bos][00a]
+
 > Join the challenge (for free!) here - [JavaScript30][00b]
 
 ## About
@@ -18,42 +19,37 @@ Completed written guides can be found in the corresponding challenge directory (
 
 ## Table Of Contents
 
-1. [ ] [JavaScript Drum Kit][01]
-2. [ ] [JS + CSS Clock][02]
-3. [ ] [CSS Variables][03]
-4. [ ] [Array Cardio, Day 1][04]
-5. [ ] [Flex Panel Gallery][05]
-6. [ ] [Type Ahead][06]
-7. [ ] [Array Cardio, Day 2][07]
-8. [ ] [Fun with HTML5 Canvas][08]
-9. [ ] [Dev Tools Domination][09]
-10. [ ] [Hold Shift and Check Checkboxes][10]
-11. [ ] [Custom Video Player][11]
-12. [ ] [Key Sequence Detection][12]
-13. [ ] [Slide in on Scroll][13]
-14. [ ] [JavaScript References vs. Copying][14]
-15. [ ] [LocalStorage][15]
-16. [ ] [Mouse Move Shadow][16]
-17. [ ] [Sort Without Articles][17]
-18. [ ] [Adding Up Times with Reduce][18]
-19. [ ] [Webcam Fun][19]
-20. [ ] [Speech Detection][20]
-21. [ ] [Geolocation][21]
-22. [ ] [Follow Along Link Highlighter][22]
-23. [ ] [Speech Synthesis][23]
-24. [ ] [Sticky Nav][24]
-25. [ ] [Event Capture, Propagation, Bubbling, and Once][25]
-26. [ ] [Stripe Follow Along Nav][26]
-27. [ ] [Click and Drag][27]
-28. [ ] [Video Speed Controller][28]
-29. [ ] [Countdown Timer][29]
-30. [ ] [Whack A Mole][30]
+1. [ ] [JavaScript Drum Kit](./01\ -\ JavaScript\ Drum\ Kit/)
+2. [ ] [JS + CSS Clock](./02\ -\ JS\ +\ CSS\ Clock/)
+3. [ ] [CSS Variables](./03\ -\ CSS\ Variables/)
+4. [ ] [Array Cardio, Day 1](./04\ -\ Array\ Cardio\ Day\ 1/)
+5. [ ] [Flex Panel Gallery](./05\ -\ Flex\ Panel\ Gallery/)
+6. [ ] [Type Ahead]()
+7. [ ] [Array Cardio, Day 2]()
+8. [ ] [Fun with HTML5 Canvas]()
+9. [ ] [Dev Tools Domination]()
+10. [ ] [Hold Shift and Check Checkboxes]()
+11. [ ] [Custom Video Player]()
+12. [ ] [Key Sequence Detection]()
+13. [ ] [Slide in on Scroll]()
+14. [ ] [JavaScript References vs. Copying]()
+15. [ ] [LocalStorage]()
+16. [ ] [Mouse Move Shadow]()
+17. [ ] [Sort Without Articles]()
+18. [ ] [Adding Up Times with Reduce]()
+19. [ ] [Webcam Fun]()
+20. [ ] [Speech Detection]()
+21. [ ] [Geolocation]()
+22. [ ] [Follow Along Link Highlighter]()
+23. [ ] [Speech Synthesis]()
+24. [ ] [Sticky Nav]()
+25. [ ] [Event Capture, Propagation, Bubbling, and Once]()
+26. [ ] [Stripe Follow Along Nav]()
+27. [ ] [Click and Drag]()
+28. [ ] [Video Speed Controller]()
+29. [ ] [Countdown Timer]()
+30. [ ] [Whack A Mole]()
 
 [00a]: https://github.com/wesbos
 [00b]: https://github.com/wesbos/JavaScript30
 [00c]: https://javascript30.com/account
-[01]: ./01\ -\ JavaScript\ Drum\ Kit/
-[02]: ./02\ -\ JS\ +\ CSS\ Clock/
-[03]: ./03\ -\ CSS\ Variables/
-[04]: ./04\ -\ Array\ Cardio\ Day\ 1/
-[05]: ./05\ -\ Flex\ Panel\ Gallery/
